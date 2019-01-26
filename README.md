@@ -1,0 +1,2 @@
+# sandboxstudio
+ e learning environment created by Sandbox Studio facilitates a space for cross-disciplinary development.  e Sandbox Studio produces Workshops, tools and material deriving from di erent disciplines, for example, Radical Curriculum design, Gami cation, Interaction Design, Business management and Tai Chi creating and testing structures and breaking them down again, in order to produce otherwise in the creative industry.
